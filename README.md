@@ -4,4 +4,6 @@
 assets/gradientclippedtext.png
 )
 
-![short video of gradient animation on hover] (assets/css-keyframe-anim.mov)
+![short video of gradient animation on hover] (assets/css-keyframe-anim.gif)
+
+by Lydia Gregory
