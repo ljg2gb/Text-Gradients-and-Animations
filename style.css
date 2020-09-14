@@ -1,6 +1,6 @@
 body {
     padding: 30px;
-    background-color: #e5cebe;
+    background-color: #f3e6dd;
 }
 
 h1 {
@@ -71,4 +71,21 @@ header {
     100% {
         background-size: 650%;
     }
+}
+
+.arrow {
+    margin: 150px;
+    font-size: 50px;
+    text-align: center;
+    position: relative;
+    transform: rotate(180deg);
+    animation: bounce 1s infinite;
+    color: #F18F43
+}
+
+@keyframes bounce {
+    0% {top: 0px;}
+    60% {top: 20px;
+        color: #E16541}
+    100% {top: 0px;}
 }
